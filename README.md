@@ -16,4 +16,4 @@
 группа 12б
 
 ## Ссылка на отчёт
--[Отчёт]()
+-[Отчёт](https://docs.google.com/document/d/1EVF9T1K1hDROiBsuzwZnbCRFvUmg_jmQUlAqEaJ4Oes/edit?usp=sharing)
